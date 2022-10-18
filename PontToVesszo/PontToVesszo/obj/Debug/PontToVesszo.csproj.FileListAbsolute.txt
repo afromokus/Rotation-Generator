@@ -1,0 +1,7 @@
+C:\Users\Kirsch\source\repos\PontToVesszo\PontToVesszo\bin\Debug\PontToVesszo.exe.config
+C:\Users\Kirsch\source\repos\PontToVesszo\PontToVesszo\bin\Debug\PontToVesszo.exe
+C:\Users\Kirsch\source\repos\PontToVesszo\PontToVesszo\bin\Debug\PontToVesszo.pdb
+C:\Users\Kirsch\source\repos\PontToVesszo\PontToVesszo\obj\Debug\PontToVesszo.csprojAssemblyReference.cache
+C:\Users\Kirsch\source\repos\PontToVesszo\PontToVesszo\obj\Debug\PontToVesszo.csproj.CoreCompileInputs.cache
+C:\Users\Kirsch\source\repos\PontToVesszo\PontToVesszo\obj\Debug\PontToVesszo.exe
+C:\Users\Kirsch\source\repos\PontToVesszo\PontToVesszo\obj\Debug\PontToVesszo.pdb

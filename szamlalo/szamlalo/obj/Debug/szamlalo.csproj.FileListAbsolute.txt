@@ -1,0 +1,14 @@
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\bin\Debug\szamlalo.exe.config
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\bin\Debug\szamlalo.exe
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\bin\Debug\szamlalo.pdb
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\obj\Debug\szamlalo.csprojAssemblyReference.cache
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\obj\Debug\szamlalo.csproj.CoreCompileInputs.cache
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\obj\Debug\szamlalo.exe
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\obj\Debug\szamlalo.pdb
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\bin\Debug\WebDriver.dll
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\bin\Debug\WebDriver.Support.dll
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\bin\Debug\WebDriver.xml
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\bin\Debug\WebDriver.Support.xml
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\obj\Debug\szamlalo.csproj.CopyComplete
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\bin\Debug\MicrosoftWebDriver.exe
+C:\Users\Kirsch\source\repos\szamlalo\szamlalo\bin\Debug\Microsoft.Edge.SeleniumTools.dll
