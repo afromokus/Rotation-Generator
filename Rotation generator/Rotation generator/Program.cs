@@ -12,20 +12,41 @@ namespace Rotation_generator
             string utolsoForgatas = "";
             string hozzaadottForgatas = "";
             string keveres = "";
-           
+
+            bool group1 = true;
+            bool group2 = true;
+
             Random rnd = new Random();
 
             List<string> keveresLista = new List<string>();
 
+            //group 1
             //both pieces on the U face, white faces up
-            keveresLista.Add("R U R' U' R U' R' U2");
-            keveresLista.Add("R U R' U' R U2 R' U'");
-            keveresLista.Add("R' D' R U2 R' D R2 U R'");
-            keveresLista.Add("R U' R' U R U2 R'");
-            keveresLista.Add("L' U' L U L' U L U2");
-            keveresLista.Add("L' U' L U L' U2 L U");
-            keveresLista.Add("R U R' F R U R' U' F'");
-            keveresLista.Add("L' U L U' L' U2 L");
+            if (group1 == true)
+            {
+                keveresLista.Add("R U R' U' R U' R' U2");
+                keveresLista.Add("R U R' U' R U2 R' U'");
+                keveresLista.Add("R' D' R U2 R' D R2 U R'");
+                keveresLista.Add("R U' R' U R U2 R'");
+                keveresLista.Add("L' U' L U L' U L U2");
+                keveresLista.Add("L' U' L U L' U2 L U");
+                keveresLista.Add("R U R' F R U R' U' F'");
+                keveresLista.Add("L' U L U' L' U2 L");
+            }
+
+            //group 2
+            //both pieces on the U face, white faces top/side, upper stickers differant
+            if (group2 == true)
+            {
+                keveresLista.Add("R U' R'");
+                keveresLista.Add("R U' R' U' R U' R' U");
+                keveresLista.Add("R' U' R2 U' R2 U2 R");
+                keveresLista.Add("R U' R' U' R U R' U");
+                keveresLista.Add("L' U L");
+                keveresLista.Add("L' U L U L' U L U'");
+                keveresLista.Add("L U L2 U L2 U2 L'");
+                keveresLista.Add("L' U L U L' U' L U'");
+            }
 
             for (int i = 0; i < 250; i++)
             {
